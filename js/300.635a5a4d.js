@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkcampamento_front"]=self["webpackChunkcampamento_front"]||[]).push([[300],{300:function(n,a,e){e.r(a),e.d(a,{default:function(){return c}});var r=e(641);function t(n,a,e,t,o,u){return(0,r.uX)(),(0,r.CE)("p",null,"information pages")}var o={name:"InformationPage"},u=e(262);const f=(0,u.A)(o,[["render",t]]);var c=f}}]);
-//# sourceMappingURL=300.635a5a4d.js.map
